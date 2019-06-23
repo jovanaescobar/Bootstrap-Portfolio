@@ -1,0 +1,56 @@
+
+body{
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/full-bloom.png)
+  
+    
+}
+
+#containerBody {
+    max-width: 960px;
+    padding:20px;
+    margin-left: 240px;
+    margin-bottom: 150px;
+    height: 475px; 
+    line-height:2 ;  
+    
+    }
+
+.container {
+    font-family: verdana;
+    font-size: 13px;
+    padding: 10px;
+    background-color:white;
+
+  }
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.containerHi {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 40px;
+    
+}
+
+ul {
+    background-color: rgb(226, 181, 206);
+    
+}
+
+
+.nav-link {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif cursive; color: gray;
+  
+}
+
+footer {
+    text-align: center;
+    background-attachment: fixed;
+    background-color: darkgray;
+    width: 890px;
+    offset-anchor: ;
+    
+}
